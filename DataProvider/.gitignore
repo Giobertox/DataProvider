@@ -8,6 +8,9 @@
 *.war
 *.ear
 
+# Temp files
+*.*~
+
 # Eclipse prefs files
 *.prefs
 
